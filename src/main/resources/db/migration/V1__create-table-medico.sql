@@ -6,4 +6,13 @@ CREATE TABLE medicos(
     crm VARCHAR(6) NOT NULL UNIQUE,
     especialidade VARCHAR(100) NOT NULL,
     logradouro VARCHAR(100) NOT NULL,
+    bairro VARCHAR(100) NOT NULL,
+    cep VARCHAR(9) NOT NULL,
+    complemento VARCHAR(100),
+    numero VARCHAR(20),
+    uf CHAR(100) NOT NULL,
+    cidade VARCHAR(100) NOT NULL,
+
+    PRIMARY KEY(id)
+
 )

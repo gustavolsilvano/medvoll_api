@@ -1,4 +1,4 @@
-package com.tucdev.MedVoll.medico;
+package com.tucdev.MedVoll.domain.medico;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

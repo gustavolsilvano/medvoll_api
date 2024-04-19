@@ -1,4 +1,4 @@
-package com.tucdev.MedVoll.medico.dto;
+package com.tucdev.MedVoll.domain.medico.dto;
 
 public enum EEspecialidade {
     ORTOPEDIA,

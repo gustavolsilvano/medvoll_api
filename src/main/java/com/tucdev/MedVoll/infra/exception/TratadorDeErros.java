@@ -1,4 +1,4 @@
-package com.tucdev.MedVoll.infra;
+package com.tucdev.MedVoll.infra.exception;
 
 import com.tucdev.MedVoll.infra.dto.DadosErroValidacaoDto;
 import jakarta.persistence.EntityNotFoundException;

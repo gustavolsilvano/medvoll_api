@@ -1,6 +1,6 @@
-package com.tucdev.MedVoll.endereco;
+package com.tucdev.MedVoll.domain.endereco;
 
-import com.tucdev.MedVoll.endereco.dto.DadosEnderecoDto;
+import com.tucdev.MedVoll.domain.endereco.dto.DadosEnderecoDto;
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

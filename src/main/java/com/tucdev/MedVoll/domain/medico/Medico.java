@@ -1,9 +1,9 @@
-package com.tucdev.MedVoll.medico;
+package com.tucdev.MedVoll.domain.medico;
 
-import com.tucdev.MedVoll.endereco.Endereco;
-import com.tucdev.MedVoll.medico.dto.AtualizarMedicoDto;
-import com.tucdev.MedVoll.medico.dto.DadosCadastroMedicoDto;
-import com.tucdev.MedVoll.medico.dto.EEspecialidade;
+import com.tucdev.MedVoll.domain.medico.dto.AtualizarMedicoDto;
+import com.tucdev.MedVoll.domain.medico.dto.EEspecialidade;
+import com.tucdev.MedVoll.domain.endereco.Endereco;
+import com.tucdev.MedVoll.domain.medico.dto.DadosCadastroMedicoDto;
 import jakarta.persistence.*;
 import lombok.*;
 

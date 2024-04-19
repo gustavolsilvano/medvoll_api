@@ -1,6 +1,6 @@
-package com.tucdev.MedVoll.medico.dto;
+package com.tucdev.MedVoll.domain.medico.dto;
 
-import com.tucdev.MedVoll.medico.Medico;
+import com.tucdev.MedVoll.domain.medico.Medico;
 
 public record ListagemMedicoDto(
         String nome,

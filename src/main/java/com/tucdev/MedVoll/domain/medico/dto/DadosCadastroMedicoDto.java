@@ -1,6 +1,6 @@
-package com.tucdev.MedVoll.medico.dto;
+package com.tucdev.MedVoll.domain.medico.dto;
 
-import com.tucdev.MedVoll.endereco.dto.DadosEnderecoDto;
+import com.tucdev.MedVoll.domain.endereco.dto.DadosEnderecoDto;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
